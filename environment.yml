@@ -1,0 +1,12 @@
+name: geospatial
+dependencies:
+        - numpy
+        - cartopy
+        - geopandas
+        - matplotlib
+        - python
+        - xarray
+        - ipython
+        - python
+        - descartes
+        - netcdf4
